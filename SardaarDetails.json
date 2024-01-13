@@ -1,0 +1,30 @@
+
+  [
+    {
+      "Name": "Himanshu",
+      "Location": "Kolkata",
+      "Details": "One of a kind just like his monkeys. He need daily dose of a fish whether it's from an actual fish or you know what fish",
+      "Image": "https://github.com/harsh040206/Sardaar-Finder/blob/main/Himanshu%20Sardaar.jpg",
+      "Population": 1,
+      "Latitude": -8.783195,
+      "Longitude": 34.508523
+    },
+    {
+      "Name": "Harshit",
+      "Location": "Delhi",
+      "Details": "Harshit Sardaar from delhi from his lineage you must know if you don't I'll tell, He likes to fuck his monkeys.",
+      "Image": "https://github.com/harsh040206/Sardaar-Finder/blob/main/Harshit%20Sardaar.jpg",
+      "Population": 1,
+      "Latitude": -8.783195,
+      "Longitude": 34.508523
+    },
+    {
+      "Name": "Nilesh",
+      "Location": "Solapur",
+      "Details": "Nilesh sardaar coming from Solapur, he likes to beat his monkeys to death, he has killed more than 500 monkeys in the last 5 days.",
+      "Image": "https://github.com/harsh040206/Sardaar-Finder/blob/main/Nilesh%20Sardaar.jpg",
+      "Population": 1,
+      "Latitude": -8.783195,
+      "Longitude": 34.508523
+    }
+  ]
